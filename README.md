@@ -5,4 +5,6 @@ ai coding &amp; toolings
 - career-conversations
 - crewai
 - lang-graph 
+- mcp
+- autogen
 
